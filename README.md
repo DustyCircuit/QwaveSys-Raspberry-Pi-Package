@@ -36,4 +36,4 @@ Added library support for Raspbberry Pi:
 -OpenCV is released under a BSD license and hence it’s free for both academic and commercial use.
 
 Contact Information: 
-Amornthep Phunsin (amornthep@qwavesys.com
+Amornthep Phunsin (amornthep@qwavesys.com)
