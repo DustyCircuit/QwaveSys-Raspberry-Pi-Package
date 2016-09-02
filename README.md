@@ -35,10 +35,15 @@ Install additional package
 >opkg update 
 
 >opkg install python 
+
 >opkg install opencv 
+
 >opkg install userland 
+
 >opkg install packagegroup-core-buildessential 
+
 >opkg install rpi-gpio 
+
 >opkg install rpio
 
 ------------------------------------------------------------------
