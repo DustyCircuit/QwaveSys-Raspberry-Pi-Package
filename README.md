@@ -25,11 +25,26 @@ Added library support for Raspbberry Pi 2B/3B:
 -Client_Server Library (STM,CVT)
 
 -----------------------------------------------------------------
-After installed package you can find examples as below path
+After installed the ".vip" package you can find examples as below path
 
-"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
+>"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
 
 ------------------------------------------------------------------
+Install additional package 
+
+>opkg update 
+
+>opkg install python 
+>opkg install opencv 
+>opkg install userland 
+>opkg install packagegroup-core-buildessential 
+>opkg install rpi-gpio 
+>opkg install rpio
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+
 -Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
 
 -LINX 3.0 for Raspberry Pi 2B/3B create by www.labviewmakerhub.com (LabVIEW 2014 only,***Non-commercial use)
