@@ -30,7 +30,16 @@ After installed the ".vip" package you can find examples as below path
 >"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
 
 ------------------------------------------------------------------
-Install additional package 
+Add "Q-Wave Systems" feed sources server
+
+>http://iosys.link/ipk/all
+
+>http://iosys.link/ipk/armv7a-vfp
+
+>http://iosys.link/ipk/raspberrypi2
+
+------------------------------------------------------------------
+Install additional OPKG package 
 
 >opkg update 
 
@@ -45,6 +54,10 @@ Install additional package
 >opkg install rpi-gpio 
 
 >opkg install rpio
+
+>opkg install wiringpi
+
+>opkg install wiringpi-dev
 
 ------------------------------------------------------------------
 
