@@ -57,9 +57,14 @@ Install additional OPKG package
 
 >opkg install wiringpi
 
->opkg install wiringpi-dev
-
 ------------------------------------------------------------------
+QwaveSys-Raspbian-Jessie-OS 08/2016
+
+We've made the cutom Raspbian image (img) that contain all pacakages and shared library (.so).
+
+The file size is very large serveral GB, As currently I have put at our private server. 
+
+Please email me at "amornthep@qwavesys.com" the get the download link. 
 
 ------------------------------------------------------------------
 
