@@ -4,25 +4,25 @@ QwaveSys Raspberry Pi package is LabVIEW library based on LINX 3.0 library for R
 
 QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions over LINX 3.0 standard library. it's an easy to use VIs and provided many examples. It's tested with Raspberry Pi 2B/3B and some functions also works with BBB and Orange Pi (H3) boards.
 
-First Released 1.3.0.59
+First Released 1.3.0.59 (08/2016)
 
 Added library support for Raspbberry Pi 2B/3B:
 
--WiringPi GPIO Library (http://wiringpi.com/)
+>-WiringPi GPIO Library (http://wiringpi.com/)
 
--OpenCV 3.1.0 Vision Library (http://opencv.org/)
+>-OpenCV 3.1.0 Vision Library (http://opencv.org/)
 
--RASPICAM Library (raspistill, raspivid and raspiyuvand more..)
+>-RASPICAM Library (raspistill, raspivid and raspiyuvand more..)
 
--ADC PCF8591 (http://wiringpi.com/extensions/i2c-pcf8591/)
+>-ADC PCF8591 (http://wiringpi.com/extensions/i2c-pcf8591/)
 
--DHTxx Temp Sensors (DHT11,DHT22)
+>-DHTxx Temp Sensors (DHT11,DHT22)
 
--DS18b20 1-Wire Temp Sensor (w1-gpio)
+>-DS18b20 1-Wire Temp Sensor (w1-gpio)
 
--Sysfs GPIO Library (RasPi and Orange Pi)
+>-Sysfs GPIO Library (RasPi and Orange Pi)
 
--Client_Server Library (STM,CVT)
+>-Client_Server Library (STM,CVT)
 
 -----------------------------------------------------------------
 After installed the ".vip" package you can find examples as below path
