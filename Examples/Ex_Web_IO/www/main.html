@@ -1,0 +1,124 @@
+<html>
+<head>
+	<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript">
+	$(function() {
+		function onDataReceived(data) {
+			// update the displayed count
+			$('#temp').text(String(data.counter) + " :degC");
+		}
+		
+		function fetchData() {
+			$.ajax({
+				url: "count_read",
+				type: "GET",
+				//data: params,
+				dataType: "json",
+				success: onDataReceived
+			});
+			
+			setTimeout(fetchData, 100);
+		}
+		
+		fetchData();
+		
+		$('#led1on').click(function(){
+			$.ajax({
+				url: "led_write",
+				type: "GET",
+				data: "value=1",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led1off').click(function(){
+			$.ajax({
+				url: "led_write",
+				type: "GET",
+				data: "value=0",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		
+		$('#led2on').click(function(){
+			$.ajax({
+				url: "led2_write",
+				type: "GET",
+				data: "value=1",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led2off').click(function(){
+			$.ajax({
+				url: "led2_write",
+				type: "GET",
+				data: "value=0",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led3on').click(function(){
+			$.ajax({
+				url: "led3_write",
+				type: "GET",
+				data: "value=1",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led3off').click(function(){
+			$.ajax({
+				url: "led3_write",
+				type: "GET",
+				data: "value=0",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led4on').click(function(){
+			$.ajax({
+				url: "led4_write",
+				type: "GET",
+				data: "value=1",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+		$('#led4off').click(function(){
+			$.ajax({
+				url: "led4_write",
+				type: "GET",
+				data: "value=0",
+				//dataType: "json",
+				//success: onDataReceived
+			});
+		});
+		
+	});
+	</script>
+</head>
+<body>
+<div id="temp" style="font-size: 300%"> :degC</div>
+</br>
+<button id="led1on"style="font-size: 200%">Relay1 ON</button>
+<button id="led1off" style="font-size: 200%">Relay1 OFF</button>
+</br>
+<button id="led2on"style="font-size: 200%">Relay2 ON</button>
+<button id="led2off" style="font-size: 200%">Relay2 OFF</button>
+</br>
+<button id="led3on"style="font-size: 200%">Relay3 ON</button>
+<button id="led3off" style="font-size: 200%">Relay3 OFF</button>
+</br>
+<button id="led4on"style="font-size: 200%">Relay4 ON</button>
+<button id="led4off" style="font-size: 200%">Relay4 OFF</button>
+</body>
+</html>
