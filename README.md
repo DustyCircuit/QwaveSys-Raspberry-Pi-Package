@@ -1,6 +1,6 @@
 # LabVIEW: QwaveSys-Raspberry-Pi-Package
 
-QwaveSys Raspberry Pi package is LabVIEW library based on LINX 3.0 library for Raspberry Pi. It's works with LabVIEW 2014 only, Non-commercial use.
+QwaveSys Raspberry Pi package is a LabVIEW additional library based on LINX 3.0 (labviewmakerhub) for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use.
 
 QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions over LINX 3.0 standard library. it's an easy to use VIs and provided many examples. It's tested with Raspberry Pi 2B/3B and some functions also works with BBB and Orange Pi (H3) boards.
 
