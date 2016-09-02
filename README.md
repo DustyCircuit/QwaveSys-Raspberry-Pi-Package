@@ -60,9 +60,9 @@ Install additional OPKG package
 ------------------------------------------------------------------
 QwaveSys-Raspbian-Jessie-OS 08/2016
 
-We've made the cutom Raspbian image (img) that contain all pacakages and shared library (.so).
+We've made the customized Raspbian image (.img) that contain all pacakages and shared library (.so).
 
-The file size is very large serveral GB, As currently I have put at our private server. 
+The file size is very large in serveral GB, As currently I have put at our private server. 
 
 Please email me at "amornthep@qwavesys.com" the get the download link. 
 
