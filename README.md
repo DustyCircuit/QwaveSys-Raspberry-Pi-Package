@@ -6,7 +6,7 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 First Released 1.3.0.59
 
-Added library support for Raspbberry Pi:
+Added library support for Raspbberry Pi 2B/3B:
 
 -WiringPi GPIO Library (http://wiringpi.com/)
 
@@ -24,7 +24,10 @@ Added library support for Raspbberry Pi:
 
 -Client_Server Library (STM,CVT)
 
--Much More..
+-----------------------------------------------------------------
+After installed package you can find examples as below path
+
+"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
 
 ------------------------------------------------------------------
 -Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
