@@ -11,6 +11,8 @@ Released 1.4.0.62 (09/2016)
   -Added shared object (.so) and souce code file to library folder.
 
   -Removed VIs block diagram password.
+  
+  -Added "wiringpi-dev" package.
 
 -----------------------------------------------------------------
 
@@ -66,6 +68,8 @@ Install additional OPKG package
 >opkg install rpio
 
 >opkg install wiringpi
+
+>opkg install wiringpi-dev
 
 ------------------------------------------------------------------
 QwaveSys-Raspbian-Jessie-OS 08/2016
