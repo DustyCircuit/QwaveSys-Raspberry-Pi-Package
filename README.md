@@ -4,6 +4,12 @@ QwaveSys Raspberry Pi package is a LabVIEW additional library based on LINX 3.0 
 
 QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions over LINX 3.0 standard library. it's an easy to use VIs and provided many examples. It's tested with Raspberry Pi 2B/3B and some functions also works with BBB and Orange Pi (H3) boards.
 
+Released 1.4.0.62 (09/2016)
+
+  -Added shared object (.so) and souce code file to library folder.
+
+  -Removed VIs block diagram password.
+
 First Released 1.3.0.59 (08/2016)
 
 Added library support for Raspbberry Pi 2B/3B:
