@@ -101,12 +101,8 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Call_EXE.vi" Type="VI" URL="../Call_EXE.vi"/>
 		<Item Name="Call_LibSO.vi" Type="VI" URL="../Call_LibSO.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
-			</Item>
 			<Item Name="libhello.so" Type="Document" URL="libhello.so">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
