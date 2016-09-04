@@ -4,6 +4,24 @@ QwaveSys Raspberry Pi package is a LabVIEW additional library based on LINX 3.0 
 
 QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions over LINX 3.0 standard library. it's an easy to use VIs and provided many examples. It's tested with Raspberry Pi 2B/3B and some functions also works with BBB and Orange Pi (H3) boards.
 
+# QwaveSys-Raspberry-Pi-Package wiki!
+
+[01.Setting Up the LabVIEW Raspberry Pi (QwaveSys Package)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/01.-Setting-Up-the-LabVIEW-Raspberry-Pi-(QwaveSys-Package))
+
+[02. Manual steps to install LabVIEW for Raspberry Pi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi)
+
+[03. [Tutorial] Create Executable using in LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/03.-%5BTutorial%5D-Create-Executable-using-in-LabVIEW)
+
+[04. [Tutorial] Create Share Library (.so) using in LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/04.-%5BTutorial%5D-Create-Share-Library-(.so)-using-in-LabVIEW)
+
+[05. [Tutorial] Create "WiringPi" GPIO Shared object (.so)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/05.-%5BTutorial%5D-Create-%22WiringPi%22-GPIO-Shared-object-(.so))
+
+[06. [Tutorial] Create your own GPIO Shared object (.so) base on WiringPi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/06.-%5BTutorial%5D-Create-your-own-GPIO-Shared-object-(.so)-base-on-WiringPi)
+
+[07. [Tutorial] Create "DHTxx" Temperature sensor shared object (.so) base on WiringPi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/07.-%5BTutorial%5D-Create-%22DHTxx%22-Temperature-sensor-shared-object-(.so)-base-on-WiringPi)
+
+[08. [Tutorial] Create "ADC PCF8591" ADC shared object (.so) base on WiringPi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/08.-%5BTutorial%5D-Create-%22ADC-PCF8591%22-ADC-shared-object-(.so)-base-on-WiringPi)
+
 -----------------------------------------------------------------
 
 Released 1.4.0.62 (09/2016)
