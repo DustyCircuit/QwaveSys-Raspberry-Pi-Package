@@ -10,9 +10,9 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 [02. Manual steps to install LabVIEW for Raspberry Pi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi)
 
-[03. [Tutorial] Create Executable using in LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/03.-%5BTutorial%5D-Create-Executable-using-in-LabVIEW)
+[03. [Tutorial] Create Executable calling from LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/03.-%5BTutorial%5D-Create-Executable-calling-from-LabVIEW)
 
-[04. [Tutorial] Create Share Library (.so) using in LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/04.-%5BTutorial%5D-Create-Share-Library-(.so)-using-in-LabVIEW)
+[04. [Tutorial] Create Share Library (.so) calling from LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/04.-%5BTutorial%5D-Create-Share-Library-(.so)-calling-from-LabVIEW)
 
 [05. [Tutorial] Create "WiringPi" GPIO Shared object (.so)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/05.-%5BTutorial%5D-Create-%22WiringPi%22-GPIO-Shared-object-(.so))
 
