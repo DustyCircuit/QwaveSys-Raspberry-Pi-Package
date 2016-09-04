@@ -26,11 +26,11 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 Released 1.4.0.62 (09/2016)
 
-  -Added shared object (.so) and souce code file to library folder.
+> -Added shared object (.so) and souce code file to library folder.
 
-  -Removed VIs block diagram password.
+> -Removed VIs block diagram password.
   
-  -Added "wiringpi-dev" package.
+> -Added "wiringpi-dev" package.
 
 -----------------------------------------------------------------
 
