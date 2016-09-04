@@ -39,7 +39,7 @@ Added library support for Raspbberry Pi 2B/3B:
 -----------------------------------------------------------------
 After installed the ".vip" package you can find examples as below path
 
-    "C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
+> "C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
 
 ------------------------------------------------------------------
 Add "Q-Wave Systems" feed sources server
