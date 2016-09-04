@@ -39,37 +39,37 @@ Added library support for Raspbberry Pi 2B/3B:
 -----------------------------------------------------------------
 After installed the ".vip" package you can find examples as below path
 
->"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
+    "C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
 
 ------------------------------------------------------------------
 Add "Q-Wave Systems" feed sources server
 
->http://iosys.link/ipk/all
+    http://iosys.link/ipk/all
 
->http://iosys.link/ipk/armv7a-vfp
+    http://iosys.link/ipk/armv7a-vfp
 
->http://iosys.link/ipk/raspberrypi2
+    http://iosys.link/ipk/raspberrypi2
 
 ------------------------------------------------------------------
 Install additional OPKG package 
 
->opkg update 
+    opkg update 
 
->opkg install python 
+    opkg install python 
 
->opkg install opencv 
+    opkg install opencv 
 
->opkg install userland 
+    opkg install userland 
 
->opkg install packagegroup-core-buildessential 
+    opkg install packagegroup-core-buildessential 
 
->opkg install rpi-gpio 
+    opkg install rpi-gpio 
 
->opkg install rpio
+    opkg install rpio
 
->opkg install wiringpi
+    opkg install wiringpi
 
->opkg install wiringpi-dev
+    opkg install wiringpi-dev
 
 ------------------------------------------------------------------
 QwaveSys-Raspbian-Jessie-OS 08/2016
