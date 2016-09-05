@@ -24,6 +24,10 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 [08. [Tutorial] Create "ADC PCF8591" ADC shared object (.so) base on WiringPi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/08.-%5BTutorial%5D-Create-%22ADC-PCF8591%22-ADC-shared-object-(.so)-base-on-WiringPi)
 
+[09. [Tutorial] OpenCV Pattern Matching calling from LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/09.-%5BTutorial%5D-OpenCV-Pattern-Matching-calling-from-LabVIEW)
+
+[10. [Tutorial] OpenCV Object Tracking calling from LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/10.-%5BTutorial%5D-OpenCV-Object-Tracking-calling-from-LabVIEW)
+
 -----------------------------------------------------------------
 
 Released 1.4.0.62 (09/2016)
