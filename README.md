@@ -32,6 +32,8 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 [10. [Tutorial] OpenCV Object Tracking calling from LabVIEW](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/10.-%5BTutorial%5D-OpenCV-Object-Tracking-calling-from-LabVIEW)
 
+[11. [Tutorial] OpenCV Object Tracking : Display UI at Pi Display](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/11.-%5BTutorial%5D-OpenCV-Object-Tracking-:-Display-UI-at-Pi-Display)
+
 -----------------------------------------------------------------
 
 **Released 1.4.0.62 (09/2016)**
