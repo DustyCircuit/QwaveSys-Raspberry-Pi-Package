@@ -38,6 +38,8 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 [13. [Tutorial] Get OpenCV running on BeaglelBone Black (BBB)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/13.-%5BTutorial%5D-Get-OpenCV-running-on-BeaglelBone-Black-(BBB))
 
+[14. [Tutorial] Blinking LED on Orange Pi board (Armbian Jessie)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/14.-%5BTutorial%5D-Blinking-LED-on-Orange-Pi-board-(Armbian-Jessie))
+
 -----------------------------------------------------------------
 
 **Released 1.4.0.62 (09/2016)**
