@@ -30,7 +30,7 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 -----------------------------------------------------------------
 
-Released 1.4.0.62 (09/2016)
+**Released 1.4.0.62 (09/2016)**
 
 > -Added shared object (.so) and souce code file to library folder.
 
@@ -40,7 +40,7 @@ Released 1.4.0.62 (09/2016)
 
 -----------------------------------------------------------------
 
-First Released 1.3.0.59 (08/2016)
+**First Released 1.3.0.59 (08/2016)**
 
 Added library support for Raspbberry Pi 2B/3B:
 
@@ -61,12 +61,14 @@ Added library support for Raspbberry Pi 2B/3B:
 >-Client_Server Library (STM,CVT)
 
 -----------------------------------------------------------------
-After installed the ".vip" package you can find examples as below path
+**After installed the ".vip" package you can find examples as below path**
 
-> "C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education"
+`"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education`
+
+![](http://iosys.link/tmp_pics/EX001.png)
 
 ------------------------------------------------------------------
-Add "Q-Wave Systems" feed sources server
+**Add our feed sources server link.**
 
     http://iosys.link/ipk/all
 
@@ -75,7 +77,7 @@ Add "Q-Wave Systems" feed sources server
     http://iosys.link/ipk/raspberrypi2
 
 ------------------------------------------------------------------
-Install additional OPKG package 
+**Install additional OPKG package**
 
     opkg update 
 
@@ -96,23 +98,22 @@ Install additional OPKG package
     opkg install wiringpi-dev
 
 ------------------------------------------------------------------
-QwaveSys-Raspbian-Jessie-OS 08/2016
+**QwaveSys-Raspbian-Jessie-OS 08/2016**
 
 We've made the customized Raspbian image (.img) that contain all pacakages and shared library (.so).
 
 The file size is very large in serveral GB, As currently I have put at our private server. 
 
-Please email me at "amornthep@qwavesys.com" the get the download link. 
+Please email me at `"amornthep@qwavesys.com"` the get the download link. 
 
 ------------------------------------------------------------------
 
 -Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
 
--LINX 3.0 for Raspberry Pi 2B/3B create by www.labviewmakerhub.com (LabVIEW 2014 only,***Non-commercial use)
+-LINX 3.0 for Raspberry Pi 2B/3B create by `www.labviewmakerhub.com` (LabVIEW 2014 only,***Non-commercial use)
 
--WiringPi is a GPIO access library based on BCM2835 library used in the Raspberry Pi. It’s released under the GNU LGPLv3 license created by Gordon Henderson. (http://wiringpi.com/)
+-WiringPi is a GPIO access library based on BCM2835 library used in the Raspberry Pi. It’s released under the GNU LGPLv3 license created by Gordon Henderson. `(http://wiringpi.com/)`
 
--OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. (http://opencv.org/)
+-OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. `(http://opencv.org/)`
 
-Contact Information: 
-Amornthep Phunsin (amornthep@qwavesys.com)
+`Amornthep Phunsin` and `Supawat Armart`
