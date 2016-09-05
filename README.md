@@ -34,6 +34,10 @@ QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions ove
 
 [11. [Tutorial] OpenCV Object Tracking : Display UI at Pi Display](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/11.-%5BTutorial%5D-OpenCV-Object-Tracking-:-Display-UI-at-Pi-Display)
 
+[12. [Tutorial] Create "DS18b20" Temperature sensor library (1 Wire)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/12.-%5BTutorial%5D-Create-%22DS18b20%22-Temperature-sensor-library-(1-Wire))
+
+[13. [Tutorial] Get OpenCV running on BeaglelBone Black (BBB)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/13.-%5BTutorial%5D-Get-OpenCV-running-on-BeaglelBone-Black-(BBB))
+
 -----------------------------------------------------------------
 
 **Released 1.4.0.62 (09/2016)**
