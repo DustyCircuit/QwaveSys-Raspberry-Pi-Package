@@ -1,8 +1,12 @@
 #QwaveSys Raspberry Pi Package for LabVIEW
 
+![](http://iosys.link/tmp_pics/Rpi003.png)
+
+![](http://iosys.link/tmp_pics/Rpi001.png)
+
 ![](http://iosys.link/tmp_pics/pi.png)
 
-QwaveSys Raspberry Pi package is a LabVIEW additional library based on LINX 3.0 (labviewmakerhub) for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use.
+QwaveSys Raspberry Pi package is a LabVIEW additional library based on LINX 3.0 `labviewmakerhub.com` for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use.
 
 QwaveSys Raspberry Pi Package is a peripheral VIs provides enhance functions over LINX 3.0 standard library. it's an easy to use VIs and provided many examples. It's tested with Raspberry Pi 2B/3B and some functions also works with BBB and Orange Pi (H3) boards.
 
@@ -100,7 +104,7 @@ Added library support for Raspbberry Pi 2B/3B:
 ------------------------------------------------------------------
 **QwaveSys-Raspbian-Jessie-OS 08/2016**
 
-We've made the customized Raspbian image (.img) that contain all pacakages and shared library (.so).
+We've made the customized Raspbian image (.img) that contain all packages and shared library (.so).
 
 The file size is very large in serveral GB, As currently I have put at our private server. 
 
@@ -116,4 +120,5 @@ Please email me at `"amornthep@qwavesys.com"` the get the download link.
 
 -OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. `(http://opencv.org/)`
 
-`Amornthep Phunsin` and `Supawat Armart`
+------------------------------------------------------------------
+Created by `Amornthep Phunsin` and `Supawat Armart` (Q-Wave Systems Co.,Ltd)
