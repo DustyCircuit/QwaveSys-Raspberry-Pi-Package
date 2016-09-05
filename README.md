@@ -1,4 +1,4 @@
-# LabVIEW: QwaveSys-Raspberry-Pi-Package
+#QwaveSys Raspberry Pi Package for LabVIEW
 
 ![](http://iosys.link/tmp_pics/pi.png)
 
