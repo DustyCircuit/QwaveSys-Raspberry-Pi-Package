@@ -110,13 +110,13 @@ Added library support for Raspbberry Pi 2B/3B:
     opkg install wiringpi-dev
 
 ------------------------------------------------------------------
-**QwaveSys-Raspbian-Jessie-OS 08/2016**
+**QwaveSys-Raspbian-Jessie-OS v.003 (09/2016)**
 
-We've made the customized Raspbian image (.img) that contain all packages and shared library (.so).
+The file size around 4.5GB. Please follow this WiKi page for how to use setup this image. 
 
-The file size is very large in serveral GB, As currently I have put at our private server. 
+[Dowload Here >> QwaveSys-Raspbian-Jessie-OS](https://s3-us-west-2.amazonaws.com/makerhub/linx/qwavesys/Qwave-Raspbian_qwavesys-rpi-003.img)
 
-Please email me at `"amornthep@qwavesys.com"` the get the download link. 
+Thanks , Sam K from [LabviewMakerhub.com](https://www.labviewmakerhub.com/forums/) to help put this package to AWS server.
 
 ------------------------------------------------------------------
 
@@ -130,3 +130,4 @@ Please email me at `"amornthep@qwavesys.com"` the get the download link.
 
 ------------------------------------------------------------------
 Created by `Amornthep Phunsin` and `Supawat Armart` (Q-Wave Systems Co.,Ltd)
+Contact : `"amornthep@qwavesys.com"`
