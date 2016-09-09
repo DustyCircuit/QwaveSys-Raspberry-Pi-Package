@@ -84,7 +84,7 @@ Added library support for Raspbberry Pi 2B/3B:
 
 Refer this Wiki for this steps to manual setup.
 
-(02. Manual steps to install LabVIEW for Raspberry Pi)[https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi]
+[02. Manual steps to install LabVIEW for Raspberry Pi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi)
 
     http://iosys.link/ipk/all
 
@@ -97,7 +97,7 @@ Refer this Wiki for this steps to manual setup.
 
 Refer this Wiki for this steps to manual setup.
 
-(02. Manual steps to install LabVIEW for Raspberry Pi)[https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi]
+[02. Manual steps to install LabVIEW for Raspberry Pi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi)
 
     opkg update 
 
