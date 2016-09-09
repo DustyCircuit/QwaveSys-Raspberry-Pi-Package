@@ -6,7 +6,7 @@
 
 ![](http://iosys.link/tmp_pics/pi.png)
 
-**QwaveSys Raspberry Pi package** is a LabVIEW additional library based on LINX 3.0 `labviewmakerhub.com` for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use
+[**QwaveSys Raspberry Pi package**](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/blob/master/q_wave_systems_lib_qwavesys_raspberry_pi-1.4.0.62.vip) is a LabVIEW additional library based on [LINX 3.0.xx](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212478) from [labviewmakerhub.com](https://www.labviewmakerhub.com) for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use
 
 Anyone can get started with the [LabVIEW 45-Day Evaluation](http://ftp.ni.com/support/softlib/labview/labview_development_system/2014%20SP1/2014sp1LV-WinEng.exe) and buy LabVIEW Home Edition for non-commercial use. 
 
