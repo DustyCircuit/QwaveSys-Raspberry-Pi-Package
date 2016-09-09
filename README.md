@@ -112,9 +112,11 @@ Added library support for Raspbberry Pi 2B/3B:
 ------------------------------------------------------------------
 **QwaveSys-Raspbian-Jessie-OS v.003 (09/2016)**
 
-The file size around 4.5GB. Please follow this WiKi page for how to use setup this image. 
+The file size around 4.5GB. Please follow steps from this WiKi page for how to use setup this image. 
 
-[Dowload Here >> QwaveSys-Raspbian-Jessie-OS](https://s3-us-west-2.amazonaws.com/makerhub/linx/qwavesys/Qwave-Raspbian_qwavesys-rpi-003.img)
+[Download Here >> QwaveSys-Raspbian-Jessie-OS](https://s3-us-west-2.amazonaws.com/makerhub/linx/qwavesys/Qwave-Raspbian_qwavesys-rpi-003.img)
+
+[01. Setting Up the LabVIEW Raspberry Pi (QwaveSys Package)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/01.-Setting-Up-the-LabVIEW-Raspberry-Pi-(QwaveSys-Package))
 
 Thanks , Sam K from [LabviewMakerhub.com](https://www.labviewmakerhub.com/forums/) to help put this package to AWS server.
 
