@@ -77,10 +77,12 @@ Added library support for Raspbberry Pi 2B/3B:
 
 `"C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\Q-Wave Systems Co.,Ltd\QwaveSys Raspberry Pi for LabVIEW Home-Education`
 
-![](http://iosys.link/tmp_pics/EX001.png)
-
 ------------------------------------------------------------------
 **Add our feed sources server link.**
+
+Refer this Wiki for this steps to manual setup.
+
+(02. Manual steps to install LabVIEW for Raspberry Pi)[https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi]
 
     http://iosys.link/ipk/all
 
@@ -90,6 +92,10 @@ Added library support for Raspbberry Pi 2B/3B:
 
 ------------------------------------------------------------------
 **Install additional OPKG package**
+
+Refer this Wiki for this steps to manual setup.
+
+(02. Manual steps to install LabVIEW for Raspberry Pi)[https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi]
 
     opkg update 
 
