@@ -122,7 +122,7 @@ Refer this Wiki for this steps to manual setup.
 
 The file size around 4.5GB. Please follow steps from this WiKi page for how to use setup this image. 
 
-[Download Here >> QwaveSys-Raspbian-Jessie-OS](https://s3-us-west-2.amazonaws.com/makerhub/linx/qwavesys/Qwave-Raspbian_qwavesys-rpi-003.img)
+[Download Here from TH server>> QwaveSys-Raspbian-Jessie-OS](http://iosys.link/Qwave-Raspbian_qwavesys-rpi-003.img)
 
 [01. Setting Up the LabVIEW Raspberry Pi (QwaveSys Package)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/01.-Setting-Up-the-LabVIEW-Raspberry-Pi-(QwaveSys-Package))
 
