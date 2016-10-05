@@ -1,10 +1,10 @@
 #QwaveSys Raspberry Pi Package for LabVIEW
 
-![](http://iosys.link/tmp_pics/Rpi003.png)
+![](http://ftp.qwavesys.com/tmp_pics/Rpi003.png)
 
-![](http://iosys.link/tmp_pics/Rpi001.png)
+![](http://ftp.qwavesys.com/tmp_pics/Rpi001.png)
 
-![](http://iosys.link/tmp_pics/pi.png)
+![](http://ftp.qwavesys.com/tmp_pics/pi.png)
 
 [**QwaveSys Raspberry Pi package**](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/blob/master/q_wave_systems_lib_qwavesys_raspberry_pi-1.4.0.62.vip) is a LabVIEW additional library based on [LINX 3.0.xx](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212478) from [labviewmakerhub.com](https://www.labviewmakerhub.com) for Raspberry Pi. It's works with LabVIEW 2014 only for Non-commercial use
 
@@ -86,11 +86,11 @@ Refer this Wiki for this steps to manual setup.
 
 [02. Manual steps to install LabVIEW for Raspberry Pi](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/02.-Manual-steps-to-install-LabVIEW-for-Raspberry-Pi)
 
-    http://iosys.link/ipk/all
+    http://ftp.qwavesys.com/ipk/all
 
-    http://iosys.link/ipk/armv7a-vfp
+    http://ftp.qwavesys.com/ipk/armv7a-vfp
 
-    http://iosys.link/ipk/raspberrypi2
+    http://ftp.qwavesys.com/ipk/raspberrypi2
 
 ------------------------------------------------------------------
 **Install additional OPKG package**
@@ -122,11 +122,9 @@ Refer this Wiki for this steps to manual setup.
 
 The file size around 4.5GB. Please follow steps from this WiKi page for how to use setup this image. 
 
-[Download Here from TH server>> QwaveSys-Raspbian-Jessie-OS](http://iosys.link/Qwave-Raspbian_qwavesys-rpi-003.img)
+[Download Here from TH server>> QwaveSys-Raspbian-Jessie-OS](http://ftp.qwavesys.com/Qwave-Raspbian_qwavesys-rpi-003.img)
 
 [01. Setting Up the LabVIEW Raspberry Pi (QwaveSys Package)](https://github.com/QWaveSystems/QwaveSys-Raspberry-Pi-Package/wiki/01.-Setting-Up-the-LabVIEW-Raspberry-Pi-(QwaveSys-Package))
-
-Thanks , Sam K from [LabviewMakerhub.com](https://www.labviewmakerhub.com/forums/) to help put this package to AWS server.
 
 ------------------------------------------------------------------
 
